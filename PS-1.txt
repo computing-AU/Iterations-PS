@@ -1,0 +1,12 @@
+Complete the trace table below for the following loop. Use N = 4.
+total = 0
+for i in range(1, N+1):
+    total = total + i
+    print(i, total)
+
+i	total  (before)	total  (after)	Printed output
+ 	 	 	 
+ 	 	 	 
+ 	 	 	 
+ 	 	 	 
+ 	 	 	 
