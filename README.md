@@ -1,3 +1,17 @@
+# Assessment Report Structure
+
+| Section | Content |
+|---------|---------|
+| Cover Page | Name, class, date, submission details |
+| Section Summaries | Brief explanation of approach for each section (A–E) |
+| Trace Tables | Completed trace table for Q2 |
+| Debug Analysis | Written answers for questions |
+| Flowcharts | Diagram wherever required but Mandatory
+| Pattern Screenshots | Screenshots of output for key pattern questions |
+| Reflection | What they found easy/hard, what they learned |
+| Self-Assessment | Student fills in their own predicted marks |
+
+
 # Assessment Mark Sheet
 
 | Q No. | Topic | Section | Marks | Score |
@@ -28,3 +42,4 @@
 | 24 | Prime Number Sieve | Section E — Advanced Patterns | 8 | |
 | 25 | Pattern Design Challenge | Section E — Advanced Patterns | 29 | |
 | | | **TOTAL** | **125** | **/125** |
+
