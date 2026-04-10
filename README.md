@@ -4,7 +4,7 @@
 |---------|---------|
 | Cover Page | Name, class, date, submission details |
 | Section Summaries | Brief explanation of approach for each section (A–E) |
-| Trace Tables | Completed trace table for Q2 |
+| Trace Tables | Completed trace table for Questions |
 | Debug Analysis | Written answers for questions |
 | Flowcharts | Diagram wherever required but Mandatory
 | Pattern Screenshots | Screenshots of output for key pattern questions |
